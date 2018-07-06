@@ -1,6 +1,6 @@
 # New Site Template
 
-[TODO. There will be project description]
+Simple static site on bootstrap It's a local copy of simple bootstrap template jumbotron
 
 # Project Goals
 
